@@ -1,0 +1,1 @@
+Projeto simples de quadro de desenho utilizando a TAG canvas, com esse quadro de desenho e possivel escolher que está disponivel na paleta de cores abaixo do quadro e também e possivel apagar o quadro todo.
